@@ -17,11 +17,11 @@
 <!-- 자기소개 -->
 
 <details>
-  <summary><b>[ 👨‍👩‍👦‍👦 11th Developer Member (22.03.19 ~ 22.07.02) ]</b> </summary>
+  <summary><b>[ 👨‍👩‍👦‍👦 자기소개 ]</b> </summary>
   <div markdown="1">
 
   <details>
-  <summary>🧑🏻‍💻 Organizer (Developer) 👩🏻‍💻 </summary>
+  <summary>🧑🏻‍💻 장용민 (Developer) 👩🏻‍💻 </summary>
   <div class="organizer">
 
 | ![devsungmin](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/37958836?v=4&h=250&w=250&fit=cover&mask=circle&maxage=7d) | ![hy57in](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/60775453?v=4"?v=4&h=250&w=250&fit=cover&mask=circle&maxage=7d) | ![jonghopark95](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/19240202?v=4"?v=4&h=250&w=250&fit=cover&mask=circle&maxage=7d) | ![SDB016](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/59786670?v=4"?v=4&h=250&w=250&fit=cover&mask=circle&maxage=7d) |
