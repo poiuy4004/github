@@ -1,5 +1,5 @@
 
-![depromeet-13th](https://github.com/depromeet/.github/blob/master/images/depromeet-13th.png)
+![Jang-YongMin]이미지 url)
 
 # Jang-YongMin
 
